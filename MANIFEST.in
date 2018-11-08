@@ -1,0 +1,2 @@
+graft byod_checkin/static
+global-exclude *.pyc
